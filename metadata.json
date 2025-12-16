@@ -1,0 +1,5 @@
+{
+  "name": "Nova News Portal",
+  "description": "A modern, scalable news portal CMS featuring a responsive design, real-time breaking news ticker, comprehensive editorial workflow, and AI-powered article summarization using Gemini.",
+  "requestFramePermissions": []
+}
